@@ -24,7 +24,7 @@ Devvit.configure({
 
 // Add a custom post type to Devvit
 Devvit.addCustomPostType({
-  name: 'Catch the Stars 🌟🌟',
+  name: 'Catch the Moons 🌙🌖',
   height: 'tall',
   render: (context) => {
     // Load username with `useAsync` hook
@@ -85,7 +85,7 @@ Devvit.addCustomPostType({
           alignment="middle center"
         >
           <text size="xlarge" weight="bold">
-            Catch the Stars 🌟🌟
+            Catch the Moons 🌙🌖
           </text>
           <spacer />
           <vstack alignment="start middle">
