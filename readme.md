@@ -1,6 +1,6 @@
 # Catch the Moons Game 🔵
 
-A fast-paced, interactive web game built with React where players need to catch glowing moons before they disappear. Features a beautiful space background, smooth animations, and sound effects.
+A fast-paced, interactive web game where players need to catch glowing moons before they disappear. Features a beautiful space background, smooth animations, and sound effects.
 
 ## 🎮 Game Features
 
