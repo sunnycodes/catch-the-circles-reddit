@@ -24,7 +24,7 @@ Devvit.configure({
 
 // Add a custom post type to Devvit
 Devvit.addCustomPostType({
-  name: 'Catch the circles',
+  name: 'Catch the Stars 🌟🌟',
   height: 'tall',
   render: (context) => {
     // Load username with `useAsync` hook
@@ -85,7 +85,7 @@ Devvit.addCustomPostType({
           alignment="middle center"
         >
           <text size="xlarge" weight="bold">
-            Catch the circles
+            Catch the Stars 🌟🌟
           </text>
           <spacer />
           <vstack alignment="start middle">
@@ -107,7 +107,7 @@ Devvit.addCustomPostType({
           <spacer />
           <button appearance='primary'  size='large'
           minWidth='128px'
-          icon='play-fill' onPress={onShowWebviewClick}>Play Game</button>
+          icon='star' onPress={onShowWebviewClick}>Play Game</button>
         </vstack>
         <vstack grow={webviewVisible} height={webviewVisible ? '100%' : '0%'}>
           <vstack border="thick" borderColor="black" height={webviewVisible ? '100%' : '0%'}>
